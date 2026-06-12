@@ -1,4 +1,6 @@
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException, NoSuchElementException
 from pages.base_page import BasePage
 
 class NotesPage(BasePage):
@@ -48,5 +50,20 @@ class NotesPage(BasePage):
     def invalid_title(self):
         return self.validate_note(self.in_title)
 
-
+    def count_note_by_title_desc(self, title, description):
+        """Count occurrences of (title, description) pair in the UI"""
+        try:
+            title_elements = self.wait.until(EC.visibility_of_all_elements_located(self.title))
+            desc_elements = self.wait.until(EC.visibility_of_all_elements_located(self.desc))
+            
+            titles = [e.text for e in title_elements]
+            descs = [e.text for e in desc_elements]
+            
+            count = 0
+            for i in range(min(len(titles), len(descs))):
+                if titles[i] == title and descs[i] == description:
+                    count += 1
+            return count
+        except (TimeoutException, NoSuchElementException):
+            return 0
 

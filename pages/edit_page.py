@@ -10,6 +10,7 @@ class EditPage(BasePage):
     category_btn = (By.ID, "category")
     personal_btn = (By.XPATH, '//option[@value="Personal"]')
     create_btn = (By.XPATH, '//button[@data-testid="note-submit"]')
+    title = (By.XPATH,'//div[@data-testid="note-card-title"]')
 
 
 
@@ -34,5 +35,7 @@ class EditPage(BasePage):
     def click_create_btn(self):
         self.click(self.create_btn)
 
+    def validate_title(self):
+        return self.validate_note(self.title)
 
 

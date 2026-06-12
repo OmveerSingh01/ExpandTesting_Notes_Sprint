@@ -1,4 +1,7 @@
 import requests
+import urllib3
+
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 
 class APIClient:
@@ -10,18 +13,29 @@ class APIClient:
     def get(self, endpoint, headers=None):
         return self.session.get(
             url=f"{self.base_url}{endpoint}",
-            headers=headers
+            headers=headers,
+        verify = False
         )
 
     def post(self, endpoint, payload=None, headers=None):
         return self.session.post(
             url=f"{self.base_url}{endpoint}",
             json=payload,
-            headers=headers
+            headers=headers,
+        verify = False
         )
 
     def delete(self, endpoint, headers=None):
         return self.session.delete(
             url=f"{self.base_url}{endpoint}",
-            headers=headers
+            headers=headers,
+            verify=False
+        )
+
+    def put(self, endpoint, payload=None, headers=None):
+        return self.session.put(
+            url=f"{self.base_url}{endpoint}",
+            json=payload,
+            headers=headers,
+            verify=False
         )

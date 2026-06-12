@@ -34,3 +34,21 @@ class NotesAPI(APIClient):
             payload=payload,
             headers=headers
         )
+
+    # def edit_note(self, note_id, payload, token):
+    #     headers = {
+    #         "x-auth-token": token
+    #     }
+    #     return self.put(
+    #         endpoint=f"{self.NOTES_ENDPOINT}/{note_id}",
+    #         payload=payload,
+    #         headers=headers
+    #     )
+
+    def edit_note(self, note_id, payload, token):
+        headers = {"x-auth-token": token}
+        return self.put(
+            endpoint=f"{self.NOTES_ENDPOINT}/{note_id}",
+            payload=payload,
+            headers=headers
+        )

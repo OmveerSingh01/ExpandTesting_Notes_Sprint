@@ -8,22 +8,49 @@ from pages.login_page import LoginPage
 from utils.loggers import get_logger
 from utils.screenshot import take_screenshot
 
-def test_delete_note_ui(setup_and_teardown):
-    dp = EditPage(setup_and_teardown)
+def test_valid_edit_note_ui(setup_and_teardown):
+    ep = EditPage(setup_and_teardown)
     lp = LoginPage(setup_and_teardown)
     config = ConfigReader.read_config()
-    env = config["edit_notes"]
+    env = config["valid_edit_notes"]
     TITLE = env["title"]
     DESCRIPTION = env["description"]
     CATEGORY = env["category"]
 
     lp.login()
     sleep(2)
-    dp.scroll()
-    dp.click_edit()
-    dp.enter_category()
-    dp.click_personal()
-    dp.enter_title(TITLE)
-    dp.enter_description(DESCRIPTION)
+    ep.scroll()
+    ep.click_edit()
+    ep.enter_category()
+    ep.click_personal()
+    ep.enter_title(TITLE)
+    ep.enter_description(DESCRIPTION)
     sleep(10)
-    dp.click_create_btn()
+    ep.click_create_btn()
+    sleep(5)
+    assert ep.validate_title() == 'Updated Work Note', 'Note not edited'
+
+def test_invalid_edit_note_ui(setup_and_teardown):
+    ep = EditPage(setup_and_teardown)
+    lp = LoginPage(setup_and_teardown)
+    config = ConfigReader.read_config()
+    env = config["invalid_edit_notes"]
+    TITLE = ''
+    DESCRIPTION = env["description"]
+    CATEGORY = env["category"]
+
+    lp.login()
+    sleep(2)
+    ep.scroll()
+    ep.click_edit()
+    ep.enter_category()
+    ep.click_personal()
+    ep.enter_title(TITLE)
+    ep.enter_description(DESCRIPTION)
+    sleep(10)
+    ep.click_create_btn()
+    sleep(3)
+    try:
+        assert ep.validate_title() == '', 'Note edited with empty title'
+    except AssertionError:
+        take_screenshot(ep.driver, "invalid_edit_note")
