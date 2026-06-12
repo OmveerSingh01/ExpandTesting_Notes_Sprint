@@ -32,7 +32,7 @@ def test_valid_note(setup_and_teardown):
     np.click_description_btn()
     np.enter_description_btn(DESCRIPTION)
     np.click_create_btn()
-
+    sleep(2)
     assert np.validate_title() == 'Work Note','Note not created'
     assert np.validate_description() == "This is a test note created by automation script.", 'Note not created '
 
@@ -45,9 +45,9 @@ def test_invalid_note(setup_and_teardown):
     DESCRIPTION = env["description"]
 
 
-    # lp.login()
-    sleep(5)
-    # np.scroll()
+    lp.login()
+    sleep(3)
+    np.scroll()
     np.click_add_btn()
     np.click_category_btn()
     np.click_work_btn()
