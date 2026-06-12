@@ -25,4 +25,5 @@ def test_delete_note_ui(setup_and_teardown):
     dp.click_personal()
     dp.enter_title(TITLE)
     dp.enter_description(DESCRIPTION)
+    sleep(10)
     dp.click_create_btn()

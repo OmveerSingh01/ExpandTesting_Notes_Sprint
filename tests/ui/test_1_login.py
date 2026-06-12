@@ -38,6 +38,8 @@ def test_valid_login(setup_and_teardown):
     PASSWORD = env["password"]
     get_logger().info("Trying to log in")
     lp.scroll()
+    lp.click_login()
+    lp.scroll()
     lp.click_email()
     lp.enter_email(USERNAME)
     lp.click_password()

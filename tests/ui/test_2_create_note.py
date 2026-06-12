@@ -37,14 +37,15 @@ def test_valid_note(setup_and_teardown):
     assert np.validate_description() == "This is a test note created by automation script.", 'Note not created '
 
 def test_invalid_note(setup_and_teardown):
+    lp = LoginPage(setup_and_teardown)
     np = NotesPage(setup_and_teardown)
     config = ConfigReader.read_config()
     env = config["invalid_notes"]
     TITLE = env["title"]
     DESCRIPTION = env["description"]
 
-    lp = LoginPage(setup_and_teardown)
-    lp.login()
+
+    # lp.login()
     sleep(5)
     # np.scroll()
     np.click_add_btn()

@@ -12,14 +12,14 @@ stages {
 
     stage('Install Dependencies') {
         steps {
-            bat '"C:\\Users\\Omveer\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe" -m pip install -r requirements.txt'
-            bat '"C:\\Users\\Omveer\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe" -m pip install pytest-html'
+            bat '"C:\\Users\\Omveer\\AppData\\Local\\Programs\\Python\\Python312\\python.exe" -m pip install -r requirements.txt'
+            bat '"C:\\Users\\Omveer\\AppData\\Local\\Programs\\Python\\Python312\\python.exe" -m pip install pytest-html'
         }
     }
 
     stage('Run Tests') {
         steps {
-            bat '"C:\\Users\\Omveer\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe" -m pytest -vs --html=reports/report.html --self-contained-html'
+            bat '"C:\\Users\\Omveer\\AppData\\Local\\Programs\\Python\\Python312\\python.exe" -m pytest -vs --html=reports/report.html --self-contained-html'
         }
     }
 }
