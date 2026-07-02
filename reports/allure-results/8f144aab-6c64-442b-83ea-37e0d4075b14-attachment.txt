@@ -1,0 +1,2 @@
+INFO     utils.loggers:test_edit_note_ui.py:44 Starting test_invalid_edit_note_ui
+INFO     utils.loggers:test_edit_note_ui.py:57 Notes Page Load Time: 3156 ms

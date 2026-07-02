@@ -6,3 +6,4 @@ undetected-chromedriver
 webdriver-manager
 pytest-xdist
 allure-pytest
+pytest-order

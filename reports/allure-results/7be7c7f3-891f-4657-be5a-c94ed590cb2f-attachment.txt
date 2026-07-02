@@ -1,0 +1,2 @@
+INFO     utils.loggers:test_delete_note-ui.py:17 Starting test_delete_note_ui
+INFO     utils.loggers:test_delete_note-ui.py:23 Notes Page Load Time: 2308 ms

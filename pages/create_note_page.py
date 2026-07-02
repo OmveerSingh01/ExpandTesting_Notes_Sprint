@@ -1,6 +1,8 @@
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
+from selenium.webdriver.support.select import Select
+
 from pages.base_page import BasePage
 
 class NotesPage(BasePage):
@@ -19,12 +21,6 @@ class NotesPage(BasePage):
 
     def click_add_btn(self):
         self.click(self.add_btn)
-
-    def click_category_btn(self):
-        self.click(self.category_btn)
-
-    def click_work_btn(self):
-        self.click(self.work_btn)
 
     def click_title_btn(self):
         self.click(self.title_btn)
@@ -49,6 +45,9 @@ class NotesPage(BasePage):
 
     def invalid_title(self):
         return self.validate_note(self.in_title)
+
+    def select_work(self, work):
+        self.select_dropdown(self.category_btn, work)
 
     def count_note_by_title_desc(self, title, description):
         """Count occurrences of (title, description) pair in the UI"""

@@ -1,0 +1,2 @@
+[32mINFO    [0m utils.loggers:test_create_note.py:16 Starting test_valid_note
+[32mINFO    [0m utils.loggers:test_create_note.py:28 Notes Page Load Time: 48168 ms

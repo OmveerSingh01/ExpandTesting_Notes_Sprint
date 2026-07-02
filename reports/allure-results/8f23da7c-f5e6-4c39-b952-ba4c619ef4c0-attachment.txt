@@ -1,0 +1,3 @@
+[32mINFO    [0m utils.loggers:test_login.py:40 Starting test_valid_login
+[32mINFO    [0m utils.loggers:test_login.py:46 Trying to log in
+[32mINFO    [0m utils.loggers:test_login.py:58 Notes Page Load Time: 64817 ms

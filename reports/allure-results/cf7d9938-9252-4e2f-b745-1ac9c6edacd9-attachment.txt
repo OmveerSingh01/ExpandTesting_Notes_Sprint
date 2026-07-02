@@ -1,0 +1,4 @@
+[32mINFO    [0m utils.loggers:test_5_delete_note-api.py:30 Created note with ID: 6a2f99ecc760c30296c975a0, Title: Work Note
+[32mINFO    [0m utils.loggers:test_5_delete_note-api.py:35 Deleted note with ID: 6a2f99ecc760c30296c975a0, Title: Work Note
+[32mINFO    [0m utils.loggers:test_5_delete_note-api.py:49 Notes Page Load Time: 2497 ms
+[32mINFO    [0m utils.loggers:test_5_delete_note-api.py:54 Note disappeared from UI after deletion via API

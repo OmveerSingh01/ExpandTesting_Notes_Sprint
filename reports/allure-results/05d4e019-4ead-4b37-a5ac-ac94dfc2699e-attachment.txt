@@ -1,0 +1,2 @@
+[32mINFO    [0m utils.loggers:test_edit_note_ui.py:18 Starting test_valid_edit_note_ui
+[32mINFO    [0m utils.loggers:test_edit_note_ui.py:30 Notes Page Load Time: 3546 ms

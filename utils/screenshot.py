@@ -8,7 +8,8 @@ def take_screenshot(driver, name):
 
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
 
-    file_path = f"screenshots/{name}_{timestamp}.png"
+    # file_path = f"screenshots/{name}_{timestamp}.png"
+    file_path = f"screenshots/{name}.png"
 
     driver.save_screenshot(file_path)
 

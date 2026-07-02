@@ -20,12 +20,6 @@ class EditPage(BasePage):
     def click_edit(self):
         self.click(self.edit_btn)
 
-    def enter_category(self):
-        self.click(self.category_btn)
-
-    def click_personal(self):
-        self.click(self.personal_btn)
-
     def enter_title(self,text):
         self.enter_text(self.title_btn,text)
 
@@ -35,7 +29,11 @@ class EditPage(BasePage):
     def click_create_btn(self):
         self.click(self.create_btn)
 
+    def select_work(self, work):
+        self.select_dropdown(self.category_btn, work)
+
     def validate_title(self):
         return self.validate_note(self.title)
+
 
 

@@ -1,59 +1,366 @@
-2026-06-10 12:34:14,616 - utils.loggers - [INFO] - Trying to log in
-2026-06-10 12:36:07,216 - utils.loggers - [INFO] - Trying to log in
-2026-06-10 12:36:53,019 - utils.loggers - [INFO] - Trying to log in
-2026-06-10 12:37:54,978 - utils.loggers - [INFO] - Trying to log in
-2026-06-10 12:40:33,827 - utils.loggers - [INFO] - Trying to log in
-2026-06-10 12:47:41,153 - utils.loggers - [INFO] - Trying to log in
-2026-06-10 12:48:35,971 - utils.loggers - [INFO] - Trying to log in
-2026-06-10 12:50:52,783 - utils.loggers - [INFO] - Trying to log in
-2026-06-10 12:51:42,188 - utils.loggers - [INFO] - Trying to log in
-2026-06-10 12:52:55,450 - utils.loggers - [INFO] - Trying to log in
-2026-06-10 12:56:04,778 - utils.loggers - [INFO] - Trying to log in
-2026-06-10 12:57:33,166 - utils.loggers - [INFO] - Trying to log in
-2026-06-10 12:58:11,168 - utils.loggers - [INFO] - Trying to log in
-2026-06-10 13:01:08,699 - utils.loggers - [INFO] - Trying to log in
-2026-06-10 13:01:49,183 - utils.loggers - [INFO] - Trying to log in
-2026-06-10 13:05:31,859 - utils.loggers - [INFO] - Trying to log in
-2026-06-10 13:07:39,745 - utils.loggers - [INFO] - Trying to log in
-2026-06-10 23:24:19,659 - utils.loggers - [INFO] - Trying to log in
-2026-06-11 15:14:04,148 - utils.loggers - [INFO] - Trying to log in
-2026-06-11 15:15:14,461 - utils.loggers - [INFO] - Trying to log in
-2026-06-11 15:17:31,697 - utils.loggers - [INFO] - Trying to log in
-2026-06-11 15:19:18,461 - utils.loggers - [INFO] - Trying to log in
-2026-06-11 15:21:04,661 - utils.loggers - [INFO] - Trying to log in
-2026-06-11 15:26:24,823 - utils.loggers - [INFO] - Trying to log in
-2026-06-11 15:29:19,612 - utils.loggers - [INFO] - Trying to log in
-2026-06-11 15:30:30,922 - utils.loggers - [INFO] - Trying to log in
-2026-06-11 15:45:41,132 - utils.loggers - [INFO] - Trying to log in
-2026-06-11 15:49:41,923 - utils.loggers - [INFO] - Trying to log in
-2026-06-11 15:51:41,534 - utils.loggers - [INFO] - Trying to log in
-2026-06-12 00:42:38,617 - utils.loggers - [INFO] - Trying to log in
-2026-06-12 00:44:42,136 - utils.loggers - [INFO] - Trying to log in
-2026-06-12 09:56:37,073 - utils.loggers - [INFO] - Trying to log in
-2026-06-12 10:01:46,785 - utils.loggers - [INFO] - Trying to log in
-2026-06-12 10:16:49,324 - utils.loggers - [INFO] - Trying to log in
-2026-06-12 10:19:16,351 - utils.loggers - [INFO] - Trying to log in
-2026-06-12 11:06:11,657 - utils.loggers - [INFO] - Trying to log in
-2026-06-12 11:22:55,584 - utils.loggers - [INFO] - Trying to log in
-2026-06-12 12:30:24,816 - utils.loggers - [INFO] - Trying to log in
-2026-06-12 12:54:55,860 - utils.loggers - [INFO] - Trying to log in
-2026-06-12 14:10:51,752 - utils.loggers - [INFO] - Trying to log in
-2026-06-12 14:31:10,762 - utils.loggers - [INFO] - Trying to log in
-2026-06-12 15:11:38,077 - utils.loggers - [INFO] - Trying to log in
-2026-06-12 15:28:27,050 - utils.loggers - [INFO] - Trying to log in
-2026-06-12 15:30:58,593 - utils.loggers - [INFO] - Trying to log in
-2026-06-12 15:31:55,039 - utils.loggers - [INFO] - Trying to log in
-2026-06-12 15:35:46,810 - utils.loggers - [INFO] - Trying to log in
-2026-06-12 15:39:48,529 - utils.loggers - [INFO] - Trying to log in
-2026-06-12 17:56:38,925 - utils.loggers - [INFO] - Trying to log in
-2026-06-12 18:00:22,501 - utils.loggers - [INFO] - Trying to log in
-2026-06-12 21:30:06,132 - utils.loggers - [INFO] - Trying to log in
-2026-06-12 22:41:30,930 - utils.loggers - [INFO] - Trying to log in
-2026-06-12 22:45:00,426 - utils.loggers - [INFO] - Trying to log in
-2026-06-12 22:50:09,573 - utils.loggers - [INFO] - Trying to log in
-2026-06-12 23:00:33,735 - utils.loggers - [INFO] - Trying to log in
-2026-06-12 23:09:11,627 - utils.loggers - [INFO] - Trying to log in
-2026-06-12 23:32:11,415 - utils.loggers - [INFO] - Trying to log in
-2026-06-12 23:44:03,252 - utils.loggers - [INFO] - Trying to log in
-2026-06-12 23:48:16,802 - utils.loggers - [INFO] - Trying to log in
-2026-06-12 23:58:02,223 - utils.loggers - [INFO] - Trying to log in
+2026-06-13 13:53:05,048 - utils.loggers - [INFO] - Trying to log in
+2026-06-13 13:53:11,054 - utils.loggers - [INFO] - Notes Page Load Time: 2727 ms
+2026-06-13 13:56:53,053 - utils.loggers - [INFO] - Note created successfully
+2026-06-13 13:56:53,303 - utils.loggers - [INFO] - Note found successfully
+2026-06-13 13:56:59,258 - utils.loggers - [INFO] - Created note with ID: 6a2d1453c760c30296c898d6, Title: Work Note
+2026-06-13 13:56:59,608 - utils.loggers - [INFO] - Deleted note with ID: 6a2d1453c760c30296c898d6, Title: Work Note
+2026-06-13 13:57:11,073 - utils.loggers - [INFO] - Notes Page Load Time: 2067 ms
+2026-06-13 13:57:38,960 - utils.loggers - [INFO] - Notes Page Load Time: 2365 ms
+2026-06-13 13:57:57,349 - utils.loggers - [INFO] - Notes Page Load Time: 4322 ms
+2026-06-13 13:57:57,375 - utils.loggers - [INFO] - Note disappeared from UI after deletion via API
+2026-06-13 13:58:16,646 - utils.loggers - [INFO] - Notes Page Load Time: 2707 ms
+2026-06-13 13:58:28,002 - utils.loggers - [INFO] - Notes Page Load Time: 2350 ms
+2026-06-13 13:58:31,591 - utils.loggers - [INFO] - Trying to log in
+2026-06-13 13:58:36,963 - utils.loggers - [INFO] - Notes Page Load Time: 2175 ms
+2026-06-13 16:16:49,259 - utils.loggers - [INFO] - Starting test_login_invalid_password
+2026-06-13 16:16:49,937 - utils.loggers - [INFO] - Starting test_get_notes_without_token
+2026-06-13 16:16:49,950 - utils.loggers - [INFO] - Starting test_create_note_missing_title
+2026-06-13 16:16:49,962 - utils.loggers - [INFO] - Starting test_create_note
+2026-06-13 16:16:50,518 - utils.loggers - [INFO] - Note created with title: Work Note
+2026-06-13 16:16:50,549 - utils.loggers - [INFO] - Starting test_delete_nonexistent_note
+2026-06-13 16:16:50,551 - utils.loggers - [INFO] - Starting test_edit_note
+2026-06-13 16:16:51,009 - utils.loggers - [INFO] - Starting test_get_all_notes
+2026-06-13 16:16:51,046 - utils.loggers - [INFO] - Note edited successfully. ID: 6a2d351ac760c30296c8a538
+2026-06-13 16:16:51,363 - utils.loggers - [INFO] - Response time for get_all_notes: 0.35 sec
+2026-06-13 16:16:51,646 - utils.loggers - [INFO] - Note created successfully
+2026-06-13 16:16:51,901 - utils.loggers - [INFO] - Note found successfully
+2026-06-13 16:16:59,053 - utils.loggers - [INFO] - Created note with ID: 6a2d3523c760c30296c8a54d, Title: Work Note
+2026-06-13 16:16:59,331 - utils.loggers - [INFO] - Deleted note with ID: 6a2d3523c760c30296c8a54d, Title: Work Note
+2026-06-13 16:17:00,338 - utils.loggers - [INFO] - Starting test_valid_note
+2026-06-13 16:17:00,469 - utils.loggers - [INFO] - Starting test_valid_edit_note_ui
+2026-06-13 16:17:11,380 - utils.loggers - [INFO] - Notes Page Load Time: 2661 ms
+2026-06-13 16:17:13,167 - utils.loggers - [INFO] - Notes Page Load Time: 2023 ms
+2026-06-13 16:17:19,033 - utils.loggers - [INFO] - Notes Page Load Time: 3748 ms
+2026-06-13 16:17:19,076 - utils.loggers - [INFO] - Note disappeared from UI after deletion via API
+2026-06-13 16:17:28,248 - utils.loggers - [INFO] - Starting test_invalid_note
+2026-06-13 16:17:31,624 - utils.loggers - [INFO] - Starting test_delete_note_ui
+2026-06-13 16:17:38,120 - utils.loggers - [INFO] - Starting test_invalid_edit_note_ui
+2026-06-13 16:17:42,190 - utils.loggers - [INFO] - Notes Page Load Time: 2612 ms
+2026-06-13 16:17:48,684 - utils.loggers - [INFO] - Notes Page Load Time: 2409 ms
+2026-06-13 16:17:53,584 - utils.loggers - [INFO] - Starting test_valid_login
+2026-06-13 16:17:53,594 - utils.loggers - [INFO] - Trying to log in
+2026-06-13 16:17:59,333 - utils.loggers - [INFO] - Notes Page Load Time: 1857 ms
+2026-06-13 16:18:06,773 - utils.loggers - [INFO] - Starting test_invalid_login
+2026-06-13 21:00:33,780 - utils.loggers - [INFO] - Starting test_login_invalid_password
+2026-06-13 21:00:35,525 - utils.loggers - [INFO] - Starting test_create_note
+2026-06-13 21:00:35,540 - utils.loggers - [INFO] - Starting test_get_notes_without_token
+2026-06-13 21:00:35,660 - utils.loggers - [INFO] - Starting test_create_note_missing_title
+2026-06-13 21:00:36,005 - utils.loggers - [INFO] - Note created with title: Work Note
+2026-06-13 21:00:36,011 - utils.loggers - [INFO] - Starting test_edit_note
+2026-06-13 21:00:36,277 - utils.loggers - [INFO] - Starting test_delete_nonexistent_note
+2026-06-13 21:00:36,806 - utils.loggers - [INFO] - Starting test_get_all_notes
+2026-06-13 21:00:36,978 - utils.loggers - [INFO] - Note edited successfully. ID: 6a2d779cc760c30296c8bd02
+2026-06-13 21:00:37,266 - utils.loggers - [INFO] - Note created successfully
+2026-06-13 21:00:37,537 - utils.loggers - [INFO] - Response time for get_all_notes: 0.73 sec
+2026-06-13 21:00:37,743 - utils.loggers - [INFO] - Note found successfully
+2026-06-13 21:00:46,182 - utils.loggers - [INFO] - Starting test_valid_note
+2026-06-13 21:00:47,044 - utils.loggers - [INFO] - Starting test_delete_note_ui
+2026-06-13 21:00:47,853 - utils.loggers - [INFO] - Created note with ID: 6a2d77a7c760c30296c8bd1a, Title: Work Note
+2026-06-13 21:00:48,118 - utils.loggers - [INFO] - Deleted note with ID: 6a2d77a7c760c30296c8bd1a, Title: Work Note
+2026-06-13 21:00:58,615 - utils.loggers - [INFO] - Notes Page Load Time: 3600 ms
+2026-06-13 21:01:00,439 - utils.loggers - [INFO] - Notes Page Load Time: 3064 ms
+2026-06-13 21:01:12,105 - utils.loggers - [INFO] - Starting test_invalid_edit_note_ui
+2026-06-13 21:01:14,248 - utils.loggers - [INFO] - Notes Page Load Time: 13844 ms
+2026-06-13 21:01:14,286 - utils.loggers - [INFO] - Note disappeared from UI after deletion via API
+2026-06-13 21:01:23,667 - utils.loggers - [INFO] - Starting test_invalid_note
+2026-06-13 21:01:25,938 - utils.loggers - [INFO] - Notes Page Load Time: 3921 ms
+2026-06-13 21:01:26,757 - utils.loggers - [INFO] - Starting test_valid_edit_note_ui
+2026-06-13 21:01:37,211 - utils.loggers - [INFO] - Notes Page Load Time: 2244 ms
+2026-06-13 21:01:55,586 - utils.loggers - [INFO] - Starting test_valid_login
+2026-06-13 21:01:55,589 - utils.loggers - [INFO] - Trying to log in
+2026-06-13 21:01:56,935 - utils.loggers - [INFO] - Starting test_invalid_login
+2026-06-13 21:02:02,941 - utils.loggers - [INFO] - Notes Page Load Time: 3211 ms
+2026-06-14 00:47:57,030 - utils.loggers - [INFO] - Starting test_invalid_login
+2026-06-14 00:48:15,397 - utils.loggers - [INFO] - Starting test_valid_login
+2026-06-14 00:48:15,402 - utils.loggers - [INFO] - Trying to log in
+2026-06-14 00:48:22,738 - utils.loggers - [INFO] - Notes Page Load Time: 3245 ms
+2026-06-14 00:48:30,437 - utils.loggers - [INFO] - Starting test_valid_note
+2026-06-14 00:48:44,215 - utils.loggers - [INFO] - Notes Page Load Time: 2911 ms
+2026-06-14 00:49:43,321 - utils.loggers - [INFO] - Starting test_invalid_note
+2026-06-14 00:50:14,437 - utils.loggers - [INFO] - Starting test_valid_edit_note_ui
+2026-06-14 00:50:26,152 - utils.loggers - [INFO] - Notes Page Load Time: 3600 ms
+2026-06-14 00:50:51,935 - utils.loggers - [INFO] - Starting test_invalid_edit_note_ui
+2026-06-14 00:51:03,494 - utils.loggers - [INFO] - Notes Page Load Time: 3465 ms
+2026-06-14 00:52:08,301 - utils.loggers - [INFO] - Starting test_delete_note_ui
+2026-06-14 00:52:18,838 - utils.loggers - [INFO] - Notes Page Load Time: 2937 ms
+2026-06-14 00:52:24,501 - utils.loggers - [INFO] - Starting test_create_note
+2026-06-14 00:52:25,424 - utils.loggers - [INFO] - Note created with title: Work Note
+2026-06-14 00:52:25,431 - utils.loggers - [INFO] - Starting test_edit_note
+2026-06-14 00:52:26,215 - utils.loggers - [INFO] - Note edited successfully. ID: 6a2dadf1c760c30296c8dd4a
+2026-06-14 00:52:26,217 - utils.loggers - [INFO] - Starting test_get_all_notes
+2026-06-14 00:52:26,697 - utils.loggers - [INFO] - Response time for get_all_notes: 0.48 sec
+2026-06-14 00:52:26,705 - utils.loggers - [INFO] - Starting test_login_invalid_password
+2026-06-14 00:52:27,341 - utils.loggers - [INFO] - Starting test_get_notes_without_token
+2026-06-14 00:52:27,859 - utils.loggers - [INFO] - Starting test_create_note_missing_title
+2026-06-14 00:52:28,321 - utils.loggers - [INFO] - Starting test_delete_nonexistent_note
+2026-06-14 00:52:28,858 - utils.loggers - [INFO] - Note created successfully
+2026-06-14 00:52:29,155 - utils.loggers - [INFO] - Note found successfully
+2026-06-14 00:52:34,517 - utils.loggers - [INFO] - Created note with ID: 6a2dadfac760c30296c8dd60, Title: Work Note
+2026-06-14 00:52:34,789 - utils.loggers - [INFO] - Deleted note with ID: 6a2dadfac760c30296c8dd60, Title: Work Note
+2026-06-14 00:52:51,044 - utils.loggers - [INFO] - Notes Page Load Time: 3745 ms
+2026-06-14 00:52:51,101 - utils.loggers - [INFO] - Note disappeared from UI after deletion via API
+2026-06-14 12:37:36,968 - utils.loggers - [INFO] - Starting test_create_note
+2026-06-14 12:37:37,558 - utils.loggers - [INFO] - Note created with title: Work Note
+2026-06-14 12:37:37,568 - utils.loggers - [INFO] - Starting test_edit_note
+2026-06-14 12:37:38,340 - utils.loggers - [INFO] - Note edited successfully. ID: 6a2e5339c760c30296c90b25
+2026-06-14 12:37:38,351 - utils.loggers - [INFO] - Starting test_get_all_notes
+2026-06-14 12:37:38,634 - utils.loggers - [INFO] - Response time for get_all_notes: 0.28 sec
+2026-06-14 15:55:48,861 - utils.loggers - [INFO] - Starting test_valid_note
+2026-06-14 15:56:01,773 - utils.loggers - [INFO] - Notes Page Load Time: 2649 ms
+2026-06-14 16:00:34,685 - utils.loggers - [INFO] - Starting test_valid_edit_note_ui
+2026-06-14 16:00:45,567 - utils.loggers - [INFO] - Notes Page Load Time: 3277 ms
+2026-06-14 16:01:48,403 - utils.loggers - [INFO] - Starting test_invalid_edit_note_ui
+2026-06-14 16:01:58,451 - utils.loggers - [INFO] - Notes Page Load Time: 2734 ms
+2026-06-14 16:03:25,720 - utils.loggers - [INFO] - Starting test_invalid_edit_note_ui
+2026-06-14 16:04:18,853 - utils.loggers - [INFO] - Starting test_invalid_edit_note_ui
+2026-06-14 16:04:29,335 - utils.loggers - [INFO] - Notes Page Load Time: 3066 ms
+2026-06-14 16:24:58,183 - utils.loggers - [INFO] - Starting test_valid_note
+2026-06-14 16:25:05,911 - utils.loggers - [INFO] - Notes Page Load Time: 2550 ms
+2026-06-14 16:25:21,183 - utils.loggers - [INFO] - Starting test_invalid_note
+2026-06-14 16:25:26,109 - utils.loggers - [INFO] - Starting test_delete_note_ui
+2026-06-14 16:25:40,484 - utils.loggers - [INFO] - Notes Page Load Time: 3824 ms
+2026-06-14 16:25:49,166 - utils.loggers - [INFO] - Starting test_valid_edit_note_ui
+2026-06-14 16:25:58,253 - utils.loggers - [INFO] - Notes Page Load Time: 3825 ms
+2026-06-14 16:26:13,490 - utils.loggers - [INFO] - Starting test_invalid_edit_note_ui
+2026-06-14 16:26:22,032 - utils.loggers - [INFO] - Notes Page Load Time: 3116 ms
+2026-06-14 16:26:34,768 - utils.loggers - [INFO] - Starting test_invalid_login
+2026-06-14 16:26:52,104 - utils.loggers - [INFO] - Starting test_valid_login
+2026-06-14 16:26:52,111 - utils.loggers - [INFO] - Trying to log in
+2026-06-14 16:26:58,987 - utils.loggers - [INFO] - Notes Page Load Time: 3689 ms
+2026-06-14 16:28:51,566 - utils.loggers - [INFO] - Starting test_delete_note_ui
+2026-06-14 16:28:59,048 - utils.loggers - [INFO] - Notes Page Load Time: 2354 ms
+2026-06-14 16:31:18,014 - utils.loggers - [INFO] - Starting test_delete_note_ui
+2026-06-14 16:32:15,590 - utils.loggers - [INFO] - Starting test_delete_note_ui
+2026-06-14 16:32:24,092 - utils.loggers - [INFO] - Notes Page Load Time: 3177 ms
+2026-06-14 16:33:18,840 - utils.loggers - [INFO] - Starting test_delete_note_ui
+2026-06-14 16:33:27,648 - utils.loggers - [INFO] - Notes Page Load Time: 3520 ms
+2026-06-14 16:33:52,525 - utils.loggers - [INFO] - Starting test_invalid_note
+2026-06-14 19:08:54,485 - utils.loggers - [INFO] - Starting test_get_all_notes
+2026-06-14 19:08:55,905 - utils.loggers - [INFO] - Response time for get_all_notes: 1.42 sec
+2026-06-14 19:11:15,178 - utils.loggers - [INFO] - Starting test_delete_nonexistent_note
+2026-06-14 19:14:17,798 - utils.loggers - [INFO] - Starting test_login_invalid_password
+2026-06-14 19:14:18,593 - utils.loggers - [INFO] - Starting test_create_note
+2026-06-14 19:14:18,675 - utils.loggers - [INFO] - Starting test_create_note_missing_title
+2026-06-14 19:14:18,686 - utils.loggers - [INFO] - Starting test_get_notes_without_token
+2026-06-14 19:14:19,289 - utils.loggers - [INFO] - Note created with title: Work Note
+2026-06-14 19:14:19,297 - utils.loggers - [INFO] - Starting test_edit_note
+2026-06-14 19:14:19,356 - utils.loggers - [INFO] - Starting test_delete_nonexistent_note
+2026-06-14 19:14:20,212 - utils.loggers - [INFO] - Note edited successfully. ID: 6a2eb032c760c30296c9385f
+2026-06-14 19:14:20,242 - utils.loggers - [INFO] - Starting test_get_all_notes
+2026-06-14 19:14:20,763 - utils.loggers - [INFO] - Response time for get_all_notes: 0.52 sec
+2026-06-14 19:14:22,338 - utils.loggers - [INFO] - Created note with ID: 6a2eb035c760c30296c93870, Title: Work Note
+2026-06-14 19:14:22,683 - utils.loggers - [INFO] - Deleted note with ID: 6a2eb035c760c30296c93870, Title: Work Note
+2026-06-14 19:14:48,827 - utils.loggers - [INFO] - Starting test_valid_note
+2026-06-14 19:14:59,244 - utils.loggers - [INFO] - Notes Page Load Time: 4395 ms
+2026-06-14 19:15:06,524 - utils.loggers - [INFO] - Notes Page Load Time: 7355 ms
+2026-06-14 19:15:06,599 - utils.loggers - [INFO] - Note disappeared from UI after deletion via API
+2026-06-14 19:15:10,316 - utils.loggers - [INFO] - Starting test_delete_note_ui
+2026-06-14 19:15:28,901 - utils.loggers - [INFO] - Starting test_valid_edit_note_ui
+2026-06-14 19:15:29,367 - utils.loggers - [INFO] - Starting test_invalid_note
+2026-06-14 19:15:40,568 - utils.loggers - [INFO] - Notes Page Load Time: 5875 ms
+2026-06-14 19:15:40,577 - utils.loggers - [INFO] - Notes Page Load Time: 4858 ms
+2026-06-14 19:16:05,159 - utils.loggers - [INFO] - Starting test_invalid_edit_note_ui
+2026-06-14 19:16:09,771 - utils.loggers - [INFO] - Starting test_invalid_login
+2026-06-14 19:16:09,961 - utils.loggers - [INFO] - Starting test_valid_login
+2026-06-14 19:16:09,969 - utils.loggers - [INFO] - Trying to log in
+2026-06-14 19:16:18,190 - utils.loggers - [INFO] - Notes Page Load Time: 4088 ms
+2026-06-14 19:16:19,900 - utils.loggers - [INFO] - Notes Page Load Time: 4835 ms
+2026-06-14 19:17:36,191 - utils.loggers - [INFO] - Starting test_valid_edit_note_ui
+2026-06-14 19:17:44,175 - utils.loggers - [INFO] - Notes Page Load Time: 2606 ms
+2026-06-14 19:19:56,570 - utils.loggers - [INFO] - Starting test_login_invalid_password
+2026-06-14 19:19:56,571 - utils.loggers - [INFO] - Starting test_get_notes_without_token
+2026-06-14 19:19:57,417 - utils.loggers - [INFO] - Starting test_edit_note
+2026-06-14 19:19:57,717 - utils.loggers - [INFO] - Starting test_delete_nonexistent_note
+2026-06-14 19:19:57,886 - utils.loggers - [INFO] - Starting test_get_all_notes
+2026-06-14 19:19:57,986 - utils.loggers - [INFO] - Starting test_create_note
+2026-06-14 19:19:57,989 - utils.loggers - [INFO] - Starting test_create_note_missing_title
+2026-06-14 19:19:58,398 - utils.loggers - [INFO] - Response time for get_all_notes: 0.50 sec
+2026-06-14 19:19:58,597 - utils.loggers - [INFO] - Note edited successfully. ID: 6a2eb05dc760c30296c93887
+2026-06-14 19:19:58,711 - utils.loggers - [INFO] - Note created with title: Work Note
+2026-06-14 19:20:02,136 - utils.loggers - [INFO] - Starting test_invalid_edit_note_ui
+2026-06-14 19:20:02,562 - utils.loggers - [INFO] - Starting test_valid_edit_note_ui
+2026-06-14 19:20:09,101 - utils.loggers - [INFO] - Created note with ID: 6a2eb190c760c30296c938e6, Title: Work Note
+2026-06-14 19:20:10,461 - utils.loggers - [INFO] - Deleted note with ID: 6a2eb190c760c30296c938e6, Title: Work Note
+2026-06-14 19:20:44,885 - utils.loggers - [INFO] - Starting test_invalid_note
+2026-06-14 19:20:55,614 - utils.loggers - [INFO] - Starting test_invalid_login
+2026-06-14 19:20:59,672 - utils.loggers - [INFO] - Starting test_valid_login
+2026-06-14 19:20:59,685 - utils.loggers - [INFO] - Trying to log in
+2026-06-14 19:21:01,786 - utils.loggers - [INFO] - Starting test_valid_note
+2026-06-14 19:21:07,557 - utils.loggers - [INFO] - Starting test_delete_note_ui
+2026-06-14 19:21:17,572 - utils.loggers - [INFO] - Notes Page Load Time: 7655 ms
+2026-06-14 19:21:26,867 - utils.loggers - [INFO] - Notes Page Load Time: 15101 ms
+2026-06-14 19:21:50,701 - utils.loggers - [INFO] - Notes Page Load Time: 13846 ms
+2026-06-14 19:22:02,088 - utils.loggers - [INFO] - Notes Page Load Time: 46893 ms
+2026-06-14 19:22:12,933 - utils.loggers - [INFO] - Notes Page Load Time: 21261 ms
+2026-06-14 19:22:12,966 - utils.loggers - [INFO] - Note disappeared from UI after deletion via API
+2026-06-14 19:25:29,720 - utils.loggers - [INFO] - Starting test_valid_edit_note_ui
+2026-06-14 19:25:37,241 - utils.loggers - [INFO] - Notes Page Load Time: 2260 ms
+2026-06-14 19:26:13,647 - utils.loggers - [INFO] - Starting test_delete_note_ui
+2026-06-14 19:26:24,358 - utils.loggers - [INFO] - Notes Page Load Time: 4318 ms
+2026-06-14 19:32:17,492 - utils.loggers - [INFO] - Starting test_invalid_edit_note_ui
+2026-06-14 19:32:33,318 - utils.loggers - [INFO] - Notes Page Load Time: 9819 ms
+2026-06-14 19:34:34,590 - utils.loggers - [INFO] - Starting test_invalid_edit_note_ui
+2026-06-14 19:34:42,944 - utils.loggers - [INFO] - Notes Page Load Time: 3275 ms
+2026-06-14 19:37:02,264 - utils.loggers - [INFO] - Starting test_get_notes_without_token
+2026-06-14 19:37:02,264 - utils.loggers - [INFO] - Starting test_login_invalid_password
+2026-06-14 19:37:03,672 - utils.loggers - [INFO] - Starting test_edit_note
+
+2026-06-14 19:37:03,777 - utils.loggers - [INFO] - Starting test_delete_nonexistent_note
+2026-06-14 19:37:03,868 - utils.loggers - [INFO] - Starting test_create_note_missing_title
+2026-06-14 19:37:03,870 - utils.loggers - [INFO] - Starting test_get_all_notes
+2026-06-14 19:37:05,474 - utils.loggers - [INFO] - Note created with title: Work Note
+2026-06-14 19:37:05,530 - utils.loggers - [INFO] - Response time for get_all_notes: 1.65 sec
+2026-06-14 19:37:06,372 - utils.loggers - [INFO] - Note edited successfully. ID: 6a2eb589c760c30296c93a3b
+2026-06-14 19:37:06,449 - utils.loggers - [INFO] - Starting test_valid_login
+2026-06-14 19:37:06,535 - utils.loggers - [INFO] - Trying to log in
+2026-06-14 19:37:06,543 - utils.loggers - [INFO] - Starting test_valid_note
+2026-06-14 19:37:06,584 - utils.loggers - [INFO] - Starting test_invalid_edit_note_ui
+2026-06-14 19:37:06,643 - utils.loggers - [INFO] - Starting test_delete_note_ui
+2026-06-14 19:37:06,668 - utils.loggers - [INFO] - Starting test_valid_edit_note_ui
+2026-06-14 19:37:06,744 - utils.loggers - [INFO] - Starting test_invalid_note
+2026-06-14 19:38:15,767 - utils.loggers - [INFO] - Created note with ID: 6a2eb5cec760c30296c93a4a, Title: Work Note
+2026-06-14 19:38:16,087 - utils.loggers - [INFO] - Starting test_invalid_login
+2026-06-14 19:38:16,267 - utils.loggers - [INFO] - Deleted note with ID: 6a2eb5cec760c30296c93a4a, Title: Work Note
+2026-06-14 19:38:25,751 - utils.loggers - [INFO] - Notes Page Load Time: 7246 ms
+2026-06-14 19:38:39,016 - utils.loggers - [INFO] - Notes Page Load Time: 18194 ms
+2026-06-14 19:38:42,435 - utils.loggers - [INFO] - Notes Page Load Time: 16250 ms
+2026-06-14 19:38:52,785 - utils.loggers - [INFO] - Notes Page Load Time: 29195 ms
+2026-06-14 19:38:58,498 - utils.loggers - [INFO] - Notes Page Load Time: 5396 ms
+2026-06-14 19:38:58,519 - utils.loggers - [INFO] - Note disappeared from UI after deletion via API
+2026-06-14 19:40:05,567 - utils.loggers - [INFO] - Notes Page Load Time: 69717 ms
+2026-06-14 19:41:14,919 - utils.loggers - [INFO] - Starting test_invalid_login
+2026-06-14 23:32:15,298 - utils.loggers - [INFO] - Starting test_invalid_login
+2026-06-14 23:32:33,290 - utils.loggers - [INFO] - Starting test_valid_login
+2026-06-14 23:32:33,293 - utils.loggers - [INFO] - Trying to log in
+2026-06-14 23:32:39,889 - utils.loggers - [INFO] - Notes Page Load Time: 2658 ms
+2026-06-14 23:32:48,528 - utils.loggers - [INFO] - Starting test_valid_note
+2026-06-14 23:32:57,675 - utils.loggers - [INFO] - Notes Page Load Time: 3853 ms
+2026-06-14 23:33:07,481 - utils.loggers - [INFO] - Starting test_invalid_note
+2026-06-14 23:33:28,108 - utils.loggers - [INFO] - Starting test_valid_edit_note_ui
+2026-06-14 23:33:40,845 - utils.loggers - [INFO] - Notes Page Load Time: 1833 ms
+2026-06-14 23:33:55,860 - utils.loggers - [INFO] - Starting test_invalid_edit_note_ui
+2026-06-14 23:34:04,151 - utils.loggers - [INFO] - Notes Page Load Time: 3156 ms
+2026-06-14 23:34:16,863 - utils.loggers - [INFO] - Starting test_delete_note_ui
+2026-06-14 23:34:24,629 - utils.loggers - [INFO] - Notes Page Load Time: 2479 ms
+2026-06-14 23:34:30,230 - utils.loggers - [INFO] - Starting test_create_note
+2026-06-14 23:34:30,775 - utils.loggers - [INFO] - Note created with title: Work Note
+2026-06-14 23:34:30,828 - utils.loggers - [INFO] - Starting test_edit_note
+2026-06-14 23:34:32,103 - utils.loggers - [INFO] - Note edited successfully. ID: 6a2eed2ec760c30296c948e6
+2026-06-14 23:34:32,103 - utils.loggers - [INFO] - Starting test_get_all_notes
+2026-06-14 23:34:32,712 - utils.loggers - [INFO] - Response time for get_all_notes: 0.61 sec
+2026-06-14 23:34:32,723 - utils.loggers - [INFO] - Starting test_login_invalid_password
+2026-06-14 23:34:33,346 - utils.loggers - [INFO] - Starting test_get_notes_without_token
+2026-06-14 23:34:33,938 - utils.loggers - [INFO] - Starting test_create_note_missing_title
+2026-06-14 23:34:34,360 - utils.loggers - [INFO] - Starting test_delete_nonexistent_note
+2026-06-14 23:35:04,829 - utils.loggers - [INFO] - Created note with ID: 6a2eed50c760c30296c94953, Title: Work Note
+2026-06-14 23:35:05,086 - utils.loggers - [INFO] - Deleted note with ID: 6a2eed50c760c30296c94953, Title: Work Note
+2026-06-14 23:35:20,690 - utils.loggers - [INFO] - Notes Page Load Time: 4796 ms
+2026-06-14 23:35:20,706 - utils.loggers - [INFO] - Note disappeared from UI after deletion via API
+2026-06-15 11:51:32,546 - utils.loggers - [INFO] - Created note with ID: 6a2f99ecc760c30296c975a0, Title: Work Note
+2026-06-15 11:51:33,037 - utils.loggers - [INFO] - Deleted note with ID: 6a2f99ecc760c30296c975a0, Title: Work Note
+2026-06-15 11:51:46,978 - utils.loggers - [INFO] - Notes Page Load Time: 2497 ms
+2026-06-15 11:51:47,031 - utils.loggers - [INFO] - Note disappeared from UI after deletion via API
+2026-06-15 14:24:11,792 - utils.loggers - [INFO] - Starting test_edit_note
+2026-06-15 14:24:13,044 - utils.loggers - [INFO] - Note edited successfully. ID: 6a2fbd7bc760c30296c986e7
+2026-06-15 14:24:19,124 - utils.loggers - [INFO] - Starting test_valid_edit_note_ui
+2026-06-15 14:24:27,963 - utils.loggers - [INFO] - Notes Page Load Time: 3546 ms
+2026-06-15 14:24:37,767 - utils.loggers - [INFO] - Starting test_invalid_edit_note_ui
+2026-06-15 14:24:48,391 - utils.loggers - [INFO] - Starting test_edit_note
+2026-06-15 14:24:49,552 - utils.loggers - [INFO] - Note edited successfully. ID: 6a2fbd7bc760c30296c986e7
+2026-06-15 14:24:52,712 - utils.loggers - [INFO] - Starting test_valid_edit_note_ui
+2026-06-15 14:25:43,243 - utils.loggers - [INFO] - Starting test_edit_note
+2026-06-15 14:25:44,415 - utils.loggers - [INFO] - Note edited successfully. ID: 6a2fbd7bc760c30296c986e7
+2026-06-15 14:25:55,084 - utils.loggers - [INFO] - Starting test_edit_note
+2026-06-15 14:25:55,940 - utils.loggers - [INFO] - Note edited successfully. ID: 6a2fbd7bc760c30296c986e7
+2026-06-15 14:43:03,686 - utils.loggers - [INFO] - Starting test_login_invalid_password
+2026-06-15 14:43:03,686 - utils.loggers - [INFO] - Starting test_get_notes_without_token
+2026-06-15 14:43:04,305 - utils.loggers - [INFO] - Starting test_get_all_notes
+2026-06-15 14:43:04,971 - utils.loggers - [INFO] - Starting test_create_note
+2026-06-15 14:43:04,973 - utils.loggers - [INFO] - Starting test_create_note_missing_title
+2026-06-15 14:43:04,973 - utils.loggers - [INFO] - Starting test_delete_nonexistent_note
+2026-06-15 14:43:05,017 - utils.loggers - [INFO] - Response time for get_all_notes: 0.71 sec
+2026-06-15 14:43:04,975 - utils.loggers - [INFO] - Starting test_edit_note
+2026-06-15 14:43:05,626 - utils.loggers - [INFO] - Note created with title: Work Note
+2026-06-15 14:43:06,104 - utils.loggers - [INFO] - Note edited successfully. ID: 6a2fc221c760c30296c988f8
+2026-06-15 14:43:06,944 - utils.loggers - [INFO] - Starting test_delete_note_ui
+2026-06-15 14:43:07,087 - utils.loggers - [INFO] - Starting test_valid_edit_note_ui
+2026-06-15 14:43:07,257 - utils.loggers - [INFO] - Starting test_invalid_edit_note_ui
+2026-06-15 14:43:07,391 - utils.loggers - [INFO] - Starting test_valid_login
+2026-06-15 14:43:07,484 - utils.loggers - [INFO] - Trying to log in
+2026-06-15 14:43:07,661 - utils.loggers - [INFO] - Starting test_invalid_note
+2026-06-15 14:43:23,911 - utils.loggers - [INFO] - Created note with ID: 6a2fc233c760c30296c98904, Title: Work Note
+2026-06-15 14:43:25,943 - utils.loggers - [INFO] - Deleted note with ID: 6a2fc233c760c30296c98904, Title: Work Note
+2026-06-15 14:43:31,711 - utils.loggers - [INFO] - Starting test_invalid_login
+2026-06-15 14:43:36,442 - utils.loggers - [INFO] - Starting test_valid_note
+2026-06-15 14:44:02,166 - utils.loggers - [INFO] - Notes Page Load Time: 9129 ms
+2026-06-15 14:44:03,659 - utils.loggers - [INFO] - Notes Page Load Time: 20524 ms
+2026-06-15 14:44:06,675 - utils.loggers - [INFO] - Notes Page Load Time: 25921 ms
+2026-06-15 14:44:12,493 - utils.loggers - [INFO] - Notes Page Load Time: 26156 ms
+2026-06-15 14:44:46,746 - utils.loggers - [INFO] - Notes Page Load Time: 31499 ms
+2026-06-15 14:44:46,781 - utils.loggers - [INFO] - Note disappeared from UI after deletion via API
+2026-06-15 14:48:08,408 - utils.loggers - [INFO] - Starting test_get_notes_without_token
+2026-06-15 14:48:08,408 - utils.loggers - [INFO] - Starting test_login_invalid_password
+2026-06-15 14:48:09,420 - utils.loggers - [INFO] - Starting test_edit_note
+2026-06-15 14:48:09,429 - utils.loggers - [INFO] - Starting test_delete_nonexistent_note
+2026-06-15 14:48:09,782 - utils.loggers - [INFO] - Starting test_create_note_missing_title
+2026-06-15 14:48:09,782 - utils.loggers - [INFO] - Starting test_create_note
+2026-06-15 14:48:09,798 - utils.loggers - [INFO] - Starting test_get_all_notes
+2026-06-15 14:48:10,142 - utils.loggers - [INFO] - Note edited successfully. ID: 6a2fc279c760c30296c98940
+2026-06-15 14:48:10,249 - utils.loggers - [INFO] - Note created with title: Work Note
+2026-06-15 14:48:10,428 - utils.loggers - [INFO] - Response time for get_all_notes: 0.63 sec
+2026-06-15 14:48:11,826 - utils.loggers - [INFO] - Starting test_valid_edit_note_ui
+2026-06-15 14:48:16,664 - utils.loggers - [INFO] - Starting test_delete_note_ui
+2026-06-15 14:48:32,498 - utils.loggers - [INFO] - Starting test_invalid_note
+2026-06-15 14:48:40,815 - utils.loggers - [INFO] - Starting test_invalid_edit_note_ui
+2026-06-15 14:48:47,154 - utils.loggers - [INFO] - Starting test_invalid_login
+2026-06-15 14:48:49,134 - utils.loggers - [INFO] - Starting test_valid_note
+2026-06-15 14:48:50,307 - utils.loggers - [INFO] - Starting test_valid_login
+2026-06-15 14:48:50,317 - utils.loggers - [INFO] - Trying to log in
+2026-06-15 14:48:51,039 - utils.loggers - [INFO] - Created note with ID: 6a2fc37ac760c30296c9896b, Title: Work Note
+2026-06-15 14:48:53,475 - utils.loggers - [INFO] - Deleted note with ID: 6a2fc37ac760c30296c9896b, Title: Work Note
+2026-06-15 14:49:22,010 - utils.loggers - [INFO] - Notes Page Load Time: 35366 ms
+2026-06-15 14:49:35,432 - utils.loggers - [INFO] - Notes Page Load Time: 58349 ms
+2026-06-15 14:49:45,770 - utils.loggers - [INFO] - Notes Page Load Time: 71200 ms
+2026-06-15 14:49:47,353 - utils.loggers - [INFO] - Notes Page Load Time: 48168 ms
+2026-06-15 14:49:59,672 - utils.loggers - [INFO] - Notes Page Load Time: 64817 ms
+2026-06-15 14:50:02,558 - utils.loggers - [INFO] - Notes Page Load Time: 9923 ms
+2026-06-15 14:50:02,584 - utils.loggers - [INFO] - Note disappeared from UI after deletion via API
+2026-06-15 14:50:33,643 - utils.loggers - [INFO] - Starting test_delete_note_ui
+2026-06-15 14:50:40,913 - utils.loggers - [INFO] - Notes Page Load Time: 2308 ms
+2026-06-15 14:56:33,086 - utils.loggers - [INFO] - Starting test_login_invalid_password
+2026-06-15 14:56:33,939 - utils.loggers - [INFO] - Starting test_get_notes_without_token
+2026-06-15 14:56:35,421 - utils.loggers - [INFO] - Starting test_create_note_missing_title
+2026-06-15 14:56:36,172 - utils.loggers - [INFO] - Starting test_delete_nonexistent_note
+2026-06-15 14:56:36,798 - utils.loggers - [INFO] - Starting test_create_note
+2026-06-15 14:56:37,294 - utils.loggers - [INFO] - Note created with title: Work Note
+2026-06-15 14:56:37,294 - utils.loggers - [INFO] - Starting test_edit_note
+2026-06-15 14:56:38,084 - utils.loggers - [INFO] - Note edited successfully. ID: 6a2fc54cc760c30296c989cb
+2026-06-15 14:56:38,084 - utils.loggers - [INFO] - Starting test_get_all_notes
+2026-06-15 14:56:38,401 - utils.loggers - [INFO] - Response time for get_all_notes: 0.32 sec
+2026-06-15 14:57:11,712 - utils.loggers - [INFO] - Created note with ID: 6a2fc56fc760c30296c989e5, Title: Work Note
+2026-06-15 14:57:11,985 - utils.loggers - [INFO] - Deleted note with ID: 6a2fc56fc760c30296c989e5, Title: Work Note
+2026-06-15 14:57:28,778 - utils.loggers - [INFO] - Notes Page Load Time: 4577 ms
+2026-06-15 14:57:28,794 - utils.loggers - [INFO] - Note disappeared from UI after deletion via API
+2026-06-15 14:57:37,005 - utils.loggers - [INFO] - Starting test_valid_note
+2026-06-15 14:57:44,899 - utils.loggers - [INFO] - Notes Page Load Time: 2650 ms
+2026-06-15 14:57:58,271 - utils.loggers - [INFO] - Starting test_invalid_note
+2026-06-15 14:58:17,286 - utils.loggers - [INFO] - Starting test_delete_note_ui
+2026-06-15 14:58:25,807 - utils.loggers - [INFO] - Notes Page Load Time: 3677 ms
+2026-06-15 14:58:35,773 - utils.loggers - [INFO] - Starting test_valid_edit_note_ui
+2026-06-15 14:58:43,998 - utils.loggers - [INFO] - Notes Page Load Time: 3048 ms
+2026-06-15 14:58:56,478 - utils.loggers - [INFO] - Starting test_invalid_edit_note_ui
+2026-06-15 14:59:05,110 - utils.loggers - [INFO] - Notes Page Load Time: 3524 ms
+2026-06-15 14:59:16,706 - utils.loggers - [INFO] - Starting test_invalid_login
+2026-06-15 14:59:34,266 - utils.loggers - [INFO] - Starting test_valid_login
+2026-06-15 14:59:34,266 - utils.loggers - [INFO] - Trying to log in
+2026-06-15 14:59:39,809 - utils.loggers - [INFO] - Notes Page Load Time: 2230 ms
+2026-06-16 10:42:21,927 - utils.loggers - [INFO] - Starting test_login_invalid_password
+2026-06-16 10:42:23,160 - utils.loggers - [INFO] - Starting test_get_notes_without_token
+2026-06-16 10:42:24,226 - utils.loggers - [INFO] - Starting test_create_note_missing_title
+2026-06-16 10:42:25,010 - utils.loggers - [INFO] - Starting test_delete_nonexistent_note
+2026-06-16 13:26:15,222 - utils.loggers - [INFO] - Starting test_get_notes_without_token
+2026-06-16 14:25:08,430 - utils.loggers - [INFO] - Starting test_valid_edit_note_ui
+2026-06-16 14:25:17,287 - utils.loggers - [INFO] - Notes Page Load Time: 2011 ms
+2026-06-16 21:02:58,462 - utils.loggers - [INFO] - Starting test_valid_note
+2026-06-16 21:10:08,695 - utils.loggers - [INFO] - Starting test_valid_note
+2026-06-16 21:10:17,617 - utils.loggers - [INFO] - Notes Page Load Time: 3354 ms

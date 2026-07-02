@@ -1,0 +1,2 @@
+INFO     utils.loggers:test_getnote-api.py:11 Starting test_get_all_notes
+INFO     utils.loggers:test_getnote-api.py:22 Response time for get_all_notes: 0.61 sec

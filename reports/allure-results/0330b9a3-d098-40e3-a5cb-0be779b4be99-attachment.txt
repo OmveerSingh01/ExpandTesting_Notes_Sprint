@@ -1,0 +1,1 @@
+INFO     utils.loggers:test_create_note.py:45 Starting test_invalid_note

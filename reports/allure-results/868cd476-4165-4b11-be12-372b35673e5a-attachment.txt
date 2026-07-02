@@ -1,1 +1,0 @@
-[32mINFO    [0m utils.loggers:test_1_login.py:39 Trying to log in
